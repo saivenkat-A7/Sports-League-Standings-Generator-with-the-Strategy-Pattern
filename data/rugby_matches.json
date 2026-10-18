@@ -1,0 +1,8 @@
+[
+  { "date": "2023-02-04", "homeTeam": "Lions", "awayTeam": "Bears", "homeScore": 35, "awayScore": 12, "homeTeamTries": 5, "awayTeamTries": 1 },
+  { "date": "2023-02-04", "homeTeam": "Wolves", "awayTeam": "Hawks", "homeScore": 24, "awayScore": 20, "homeTeamTries": 3, "awayTeamTries": 4 },
+  { "date": "2023-02-11", "homeTeam": "Lions", "awayTeam": "Wolves", "homeScore": 18, "awayScore": 18, "homeTeamTries": 2, "awayTeamTries": 2 },
+  { "date": "2023-02-11", "homeTeam": "Bears", "awayTeam": "Hawks", "homeScore": 10, "awayScore": 17, "homeTeamTries": 1, "awayTeamTries": 2 },
+  { "date": "2023-02-18", "homeTeam": "Hawks", "awayTeam": "Lions", "homeScore": 22, "awayScore": 29, "homeTeamTries": 3, "awayTeamTries": 4 },
+  { "date": "2023-02-18", "homeTeam": "Wolves", "awayTeam": "Bears", "homeScore": 31, "awayScore": 7, "homeTeamTries": 4, "awayTeamTries": 1 }
+]

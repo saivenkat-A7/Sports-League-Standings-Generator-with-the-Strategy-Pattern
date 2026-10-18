@@ -1,0 +1,11 @@
+[
+  { "date": "2023-04-01", "homeTeam": "Zeta",  "awayTeam": "Mu",    "homeScore": 1, "awayScore": 0, "homeTeamTries": 0, "awayTeamTries": 0 },
+  { "date": "2023-04-02", "homeTeam": "Zeta",  "awayTeam": "Alpha", "homeScore": 1, "awayScore": 0, "homeTeamTries": 0, "awayTeamTries": 0 },
+  { "date": "2023-04-03", "homeTeam": "Mu",    "awayTeam": "Alpha", "homeScore": 1, "awayScore": 0, "homeTeamTries": 0, "awayTeamTries": 0 },
+  { "date": "2023-04-04", "homeTeam": "Omega", "awayTeam": "Zeta",  "homeScore": 1, "awayScore": 0, "homeTeamTries": 0, "awayTeamTries": 0 },
+  { "date": "2023-04-05", "homeTeam": "Sigma", "awayTeam": "Zeta",  "homeScore": 1, "awayScore": 0, "homeTeamTries": 0, "awayTeamTries": 0 },
+  { "date": "2023-04-06", "homeTeam": "Mu",    "awayTeam": "Omega", "homeScore": 1, "awayScore": 0, "homeTeamTries": 0, "awayTeamTries": 0 },
+  { "date": "2023-04-07", "homeTeam": "Sigma", "awayTeam": "Mu",    "homeScore": 1, "awayScore": 0, "homeTeamTries": 0, "awayTeamTries": 0 },
+  { "date": "2023-04-08", "homeTeam": "Alpha", "awayTeam": "Omega", "homeScore": 1, "awayScore": 0, "homeTeamTries": 0, "awayTeamTries": 0 },
+  { "date": "2023-04-09", "homeTeam": "Alpha", "awayTeam": "Sigma", "homeScore": 1, "awayScore": 0, "homeTeamTries": 0, "awayTeamTries": 0 }
+]

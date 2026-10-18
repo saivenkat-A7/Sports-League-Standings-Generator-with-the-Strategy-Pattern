@@ -1,0 +1,6 @@
+[
+  { "date": "2023-03-01", "homeTeam": "Team A", "awayTeam": "Team B", "homeScore": 2, "awayScore": 0, "homeTeamTries": 0, "awayTeamTries": 0 },
+  { "date": "2023-03-01", "homeTeam": "Team C", "awayTeam": "Team D", "homeScore": 1, "awayScore": 3, "homeTeamTries": 0, "awayTeamTries": 0 },
+  { "date": "2023-03-02", "homeTeam": "Team E", "awayTeam": "Team F", "homeScore": 1, "awayScore": 1, "homeTeamTries": 0, "awayTeamTries": 0 },
+  { "date": "2023-03-02", "homeTeam": "Team G", "awayTeam": "Team H", "homeScore": 0, "awayScore": 4, "homeTeamTries": 0, "awayTeamTries": 0 }
+]
